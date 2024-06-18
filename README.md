@@ -5,5 +5,5 @@
 
 
 说明：
-1. 如果需要构建动态库的xcframework，需要在 Podfile 中使用`use_frameworks!   :linkage => :dynamic` 标记
-2. 如果需要构建动态库的xcframework，需要在 Podfile 中使用`use_frameworks!   :linkage => :static` 标记
+1. 如果需要构建 动态库的 xcframework，需要在 Podfile 中使用`use_frameworks!  :linkage => :dynamic` 标记
+2. 如果需要构建 静态库的 xcframework，需要在 Podfile 中使用`use_frameworks!  :linkage => :static` 标记
