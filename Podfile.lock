@@ -1,0 +1,16 @@
+PODS:
+  - MJRefresh (3.7.2)
+
+DEPENDENCIES:
+  - MJRefresh (= 3.7.2)
+
+SPEC REPOS:
+  https://git.ixiaochuan.cn/Mirrors_cocoapods/xc_cocoapods.git:
+    - MJRefresh
+
+SPEC CHECKSUMS:
+  MJRefresh: 30997d30b347c8e9508a4db11e3a690da0c9b85a
+
+PODFILE CHECKSUM: fea47ec00e7428359225c6425b6ee32133408c7a
+
+COCOAPODS: 1.15.2
